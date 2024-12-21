@@ -18,6 +18,7 @@
   "dependencies": {
     "@inkibra/tauri-plugin-auth": "^0.2.3",
     "@inkibra/tauri-plugin-context-menu": "^0.1.4",
+    "@inkibra/tauri-plugin-fitness": "^0.2.3",
     "@inkibra/tauri-plugin-geolocation": "^0.1.6",
     "@inkibra/tauri-plugin-haptic-feedback": "^0.1.4",
     "@inkibra/tauri-plugin-iap": "^0.2.3",
